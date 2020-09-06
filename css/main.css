@@ -1,5 +1,5 @@
 body {
-  background-color: #f2f2f2;
+  background-color: #DDDDDD;
   font-family: "Lato"; /* OPTIONAL: Google Fonts - base font */
   font-weight: 300;
   font-size: 16px;
@@ -69,8 +69,8 @@ a:after {
 
 /* Header Wrap */
 .header {
-  background: #1CBCAD;
-  background: url(../images/header-bg.jpg) no-repeat center top;
+  background: #85144b;
+  background: url(../images/sandeep.jpg) no-repeat center top;
   padding-top:140px;
   text-align:center;
   background-attachment: relative;
@@ -106,7 +106,7 @@ a:after {
 
 /* About Wrap */
 .about {
-  background: #2c3e50;
+  background: #111111;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -144,7 +144,7 @@ a:after {
 /* social icons: */
 .footer i {
   padding-right: 8px;
-  /*color: #1abc9c;*/
+  /*color: #FFDC00;*/
 }
 
 /* Global Values */
